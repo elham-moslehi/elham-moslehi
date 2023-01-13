@@ -17,9 +17,9 @@
 
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elham-moslehi&show_icons=true&locale=en&layout=compact" alt="elham-moslehi" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=elham-moslehi&" alt="elham-moslehi" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=elham-moslehi&" alt="elham-moslehi"/>
 </div>
+
 
 <!----------------------------->
 <!-- COMMENTED FOR LATER USE -->
