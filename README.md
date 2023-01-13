@@ -9,11 +9,11 @@
 [![Github](https://img.shields.io/github/followers/elham-moslehi?label=Follow-Me&style=social)](https://github.com/elham-moslehi)
 
 
-- :dna: I’m currently working on Genomic data analysis.
-- 💻 Interested in system administration.
+- :spider_web: I’m currently studying Biofabrication.
+- 🧫 Interested in Tissue Engineering.
 - :envelope: Feel free to contact me at: elham.moslehi99@gmail.com
-- :book: Currently reading [linear algebra and learning from data](https://math.mit.edu/~gs/learningfromdata/). Check this out if interested.
-- 🌱 I also learn Python, Medical image analysis, etc by supervising some courses. Visit [Parspajouhaan](https://parspajouhaan.com/) website.
+- :book: Currently reading [Cell Biology](https://www.elsevier.com/books/cell-biology/pollard/978-0-323-75800-0). Check this out if interested.
+- 🌱 I'm also learning Creo-CAD software to work with Bio-printers.
 
 
 <div>
